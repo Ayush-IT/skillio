@@ -1,7 +1,3 @@
-<h1 align="center">✨ Full-Stack Interview Platform ✨</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 ✨ Highlights:
 
 - 🧑‍💻 VSCode-Powered Code Editor
@@ -76,4 +72,3 @@ bash
 cd frontend
 npm install
 npm run dev
-```
